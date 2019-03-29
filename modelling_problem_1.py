@@ -1,0 +1,2 @@
+#Given an incompressible fluid flowing through a short section of horizontal pipe, write a function to calculate
+#the outlet pressure if the inlet pressure, inlet velocity, and outlet velocity are known

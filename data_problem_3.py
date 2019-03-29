@@ -1,0 +1,1 @@
+#Given the set of data points, construct a piece-wise linear best-fit approximation (R^2 > 95%) to the curve. 
